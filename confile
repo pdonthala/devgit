@@ -1,1 +1,6 @@
-This is conflic file
+
+<<<<<<< HEAD
+This is confliic file
+=======
+This is conflict file2
+>>>>>>> branch1
